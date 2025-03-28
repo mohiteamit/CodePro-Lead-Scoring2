@@ -104,7 +104,7 @@ jupyterlab_widgets==3.0.13
 kiwisolver==1.4.7
 kmodes==0.12.2
 lazy-object-proxy==1.9.0
-lightgbm==4.6.0
+lightgbm==3.3.2
 linkify-it-py==2.0.0
 llvmlite==0.37.0
 lockfile==0.12.2
