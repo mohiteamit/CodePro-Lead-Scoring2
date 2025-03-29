@@ -1,4 +1,6 @@
 *.xlsx
+02_training_pipeline/notebooks/mlruns/*
+02_training_pipeline/notebooks/lead_scoring_model_experimentation.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
